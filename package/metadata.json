@@ -1,0 +1,22 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "CCFDDL Widget Contributors"
+      }
+    ],
+    "Category": "Date and Time",
+    "Description": "从 ccfddl.com 拉取会议投稿截止日期，显示醒目的倒计时。支持液态玻璃外观。",
+    "Description[zh_CN]": "从 ccfddl.com 拉取会议投稿截止日期，显示醒目的倒计时。支持液态玻璃外观。",
+    "EnabledByDefault": true,
+    "Icon": "/icon.png",
+    "Id": "com.ccfddl.deadline",
+    "License": "GPL-3.0",
+    "Name": "CCFDDL 投稿倒计时",
+    "Name[zh_CN]": "CCFDDL 投稿倒计时",
+    "Version": "1.0.0",
+    "Website": "https://ccfddl.com/"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
